@@ -4,3 +4,4 @@ This file should be a recipe:
 2 dl sugar 
 2 dl flour
 pineapple
+7 pears
